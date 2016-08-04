@@ -1,0 +1,37 @@
+_repo: The-Hound-of-the-Baskervilles_2852
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Doyle, Sir Arthur Conan
+    - Doyle, A. Conan
+    - Conan Doyle, Arthur, Sir
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: ''
+gutenberg_bookshelf:
+- Bestsellers, American, 1895-1923
+- Detective Fiction
+gutenberg_issued: '2001-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2852'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Holmes, Sherlock (Fictitious character) -- Fiction'
+- !lcsh 'Private investigators -- England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Dogs -- Fiction'
+- !lcsh 'Blessing and cursing -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Dartmoor (England) -- Fiction'
+- GITenberg
+title: The Hound of the Baskervilles
+url: http://www.gutenberg.org/ebooks/2852
